@@ -4,7 +4,7 @@ Material de apoio à atividade de Fiabilidade da unidade curricular de Análise 
 
 ## Por onde começar
 
-1. Leia o enunciado e o documento base (pasta [`docs`](docs)).
+1. Leia o enunciado e o documento base (ver [Documentos](#documentos)).
 2. Leia a Parte I do documento de apoio, com o Excel da aula aberto ao lado.
 3. Faça o notebook comum (`00_comum`).
 4. Passe aos capítulos e aos notebooks dos dois temas do seu grupo (tema base e tema extra).
@@ -37,4 +37,8 @@ Os notebooks descarregam estes ficheiros automaticamente. Se a descarga falhar, 
 
 ## Documentos
 
-A pasta [`docs`](docs) tem o enunciado, o documento base e o documento de apoio.
+- [Enunciado da atividade](https://raw.githubusercontent.com/nlavadodatasci/atd-megaf-fiabilidade/main/docs/Fiabilidade_enunciado_ATD_MEGAF.pdf)
+- [Documento base sobre Fiabilidade](https://raw.githubusercontent.com/nlavadodatasci/atd-megaf-fiabilidade/main/docs/NL_Fiabilidade_documento_base.pdf)
+- [Documento de apoio, com a Parte I (comum) e a Parte II (por tema)](https://raw.githubusercontent.com/nlavadodatasci/atd-megaf-fiabilidade/main/docs/Apoio_Fiabilidade_ATD_MEGAF.pdf)
+
+As ligações abrem o PDF completo no navegador. A pré-visualização do próprio GitHub pode mostrar o documento incompleto ou uma versão antiga; nesse caso, use estas ligações ou o botão *Download raw file*.
