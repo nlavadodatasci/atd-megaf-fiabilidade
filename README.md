@@ -7,7 +7,7 @@ Material de apoio à atividade de Fiabilidade da unidade curricular de Análise 
 1. Leia o enunciado e o documento base (pasta [`docs`](docs)).
 2. Leia a Parte I do documento de apoio, com o Excel da aula aberto ao lado.
 3. Faça o notebook comum (`00_comum`).
-4. Passe ao capítulo e ao notebook do tema do seu grupo.
+4. Passe aos capítulos e aos notebooks dos dois temas do seu grupo (tema base e tema extra).
 
 ## Notebooks
 
